@@ -1,0 +1,5 @@
+/Users/dreik/Projects/CalcArea/CalcArea/bin/Debug/CalcArea.exe
+/Users/dreik/Projects/CalcArea/CalcArea/bin/Debug/CalcArea.pdb
+/Users/dreik/Projects/CalcArea/CalcArea/obj/Debug/CalcArea.csprojAssemblyReference.cache
+/Users/dreik/Projects/CalcArea/CalcArea/obj/Debug/CalcArea.exe
+/Users/dreik/Projects/CalcArea/CalcArea/obj/Debug/CalcArea.pdb
